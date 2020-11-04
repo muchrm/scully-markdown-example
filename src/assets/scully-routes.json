@@ -1,0 +1,1 @@
+[{"route":"/blog/2020-11-04-blog","title":"blog title","description":"blog description","published":true,"arbitraryValue":"single value","arbitraryArray":["first item","second item"],"sourceFile":"2020-11-04-blog.md"},{"route":"/home"},{"route":"/"}]
